@@ -36,8 +36,8 @@ This tensorflow tutorial is mainly based on https://www.tensorflow.org/tutorials
 - [Neural Networks by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 ## Known Issues
-**P**: You get an error executing pip in the venv
+**P**: You get an error executing pip in the venv <br>
 **S**: Try rebooting your computer
 
-**P**: The python command cannot be found.
+**P**: The python command cannot be found. <br>
 **S**: Maybe your forgot to set the path environment variable for the python executable. Use `where python` to locate your python executable and add it to the `Path` system variable. Then reboot your computer.
